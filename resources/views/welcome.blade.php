@@ -642,7 +642,7 @@
                         <p>Msasa Park</p>
                         <p>Harare Zimbabwe</p><br>
                         <p><strong>Email: </strong> info@zarkcigerrates.com</p>
-                        <p><strong>Phone number: </strong>+242 4466 40/96</p>
+                        <p><strong>Phone number: </strong>+263 242 4466 40/96</p>
                         <p><strong>Whatsapp: </strong>+263 731 400 000</p>
 
                     </div>
