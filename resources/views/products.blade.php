@@ -136,7 +136,7 @@
                             })(jQuery);
                         </script>
 
-                        <div class="hb_single_room_details" style="padding-top: 30px;">
+                        <div class="hb_single_room_details" style="padding-top: 10px;">
 
 
                             <ul class="hb_single_room_tabs">
