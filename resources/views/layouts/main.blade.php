@@ -224,8 +224,12 @@ body.rtl .contact-form-wrap .section-title {
                                     <li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a title="Glue" href="{{route('products','glue')}}" style="color: white;">Glue</a></li>
                                 </ul>
                             </li>
-                            <li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272" ><a title="About Us" href="{{url('/')}}#about" >ABOUT US</a></li>
-
+                           
+                            <li id="menu-item-272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-272 dropdown"><a title="About" href="#" class="dropdown-toggle">ABOUT<span class="caret"></span></a>
+                                <ul role="menu" class=" dropdown-menu">
+                                    <li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a title="About Us" href="{{url('/')}}#about" style="color: white;">Us</a></li>
+                                    <li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a title="Our Leader" href="{{url('/')}}#ourLeader" style="color: white;">Our Leader</a></li>
+                                    </ul>
                             </li>
                             <li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a title="Contact Us" href="{{url('/')}}#contact">CONTACTS</a></li>
                         </ul>

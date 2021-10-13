@@ -237,7 +237,7 @@
                     <div class="about-wrap">
                         <div class="section-title">
                             <h2 style="text-align:center;font-weight: bolder;"><a href="">ZARK Cigerattes</a></h2>
-                            <p style="text-align:center;font-weight: bolder;" ><u style="color: #eea236">“A World of Flavour”</u></p></div>
+                            <p style="text-align:center;font-weight: bolder;" ><u style="color: #cf9d20">“A World of Flavour”</u></p></div>
 
                         <div class="section-title">
                             <p style="text-align:left;font-weight: bolder;">Our Vision Statement</p>
