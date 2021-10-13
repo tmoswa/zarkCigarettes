@@ -141,7 +141,8 @@
 
                             <ul class="hb_single_room_tabs">
                                     <a href="#hb_room_description"> <div class="hb_single_room_tabs">
-                                            @if($current_product->p_type=='product')       <span >Description</span>
+                                            @if($current_product->p_type=='product' || $current_product->p_type=='ntms')
+                                                <span >Description</span>
                                             @else
                                                 <span>Get Intouch</span>
                                             @endif
@@ -154,7 +155,7 @@
                                 <div id="hb_room_description" class="hb_single_room_tab_details">
                                     @if($current_product!=null)
 
-                                        @if($current_product->p_type=='product')
+                                        @if($current_product->p_type=='product' || $current_product->p_type=='ntms')
                                             <p style="text-align: justify;">{{$current_product->description}}</p>
                                         @else
                                             <p style="text-align: justify;">ken@cavendishlloyd.com</p>
