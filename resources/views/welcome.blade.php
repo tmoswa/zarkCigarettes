@@ -641,7 +641,7 @@
                         <p>Bay 27, Harrow Bussiness Park</p>
                         <p>Msasa, Harare Zimbabwe</p><br>
                         <p><strong>Email: </strong> info@zarkcigerrates.com</p>
-                        <p><strong>Tel No.: </strong>+263 242 4466 40/96</p>
+                        <p><strong>Telephone No.: </strong>+263 242 4466 40/96</p>
                         <p><strong>Cell / Whatsapp No.: </strong>+263 731 400 000</p>
 
                     </div>
