@@ -667,7 +667,7 @@
 <h3>Kenneth Mvududu</h3>
                             <h4><u>Managing Director Cigarettes and NTM</u></h4>
 
-<p style="text-align: left;">Ken is responsible for development, production, marketing and distribution of all the cavendish
+<p style="text-align: left;">Ken is responsible for development, production, marketing and distribution of all the ZARK Cigaretttes which is under Cavendish
     Lloyd international cigarettes. The Non-tobacco division also falls under his
     responsibilities. With over 17 years’ experience, he is a marketer by profession who
     has worked in various sectors such as banking, telecommunication, freight and advertising.
