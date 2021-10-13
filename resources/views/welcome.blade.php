@@ -651,6 +651,48 @@
             </div>
         </div>
     </section>
+
+
+
+    <section id="ourLeader" class="section contact" style='background-image:url("wp-content/img/zarklogo.png1")'>
+        <div class="container">
+            <div class="row">
+                <div class="contact-wrapper">
+                    <div class="contact-form-wrap">
+                        <div class="section-title txt-center">
+                            <h2>Our Leader</h2>
+
+                        </div>
+                        <form action="{{route('message_us')}}" method="POST">
+                            @csrf
+
+                            <div class="col-md-12 col-sm-12">
+                                <span class="input input--nao">
+
+<h2>Kenneth Mvududu</h2>
+                                    <h3>Managing Director Cigarettes and NTM</h3>
+
+<p>Ken is responsible for development, production, marketing and distribution of all the cavendish
+    Lloyd international cigarettes. The Non-tobacco division also falls under his
+    responsibilities. With over 17 years’ experience, he is a marketer by profession who
+    has worked in various sectors such as banking, telecommunication, freight and advertising.
+    His responsibility is to develop effective strategy and to grow our cigarette brands in
+    Africa and beyond.</p>
+
+                                </span>
+                            </div>
+
+                        </form>
+                    </div>
+                    <div style="padding-top: 150px;">
+                        <div class="contact-info">
+                        <img src="wp-content/img/ken.jpeg"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- End of contact section -->
 
     <!-- Footer -->
