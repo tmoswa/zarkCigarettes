@@ -12900,6 +12900,13 @@ section.contact {
   text-align: left; }
   .contact-info h3, .contact-info p {
     color: #fff; }
+.contact-info1 {
+    width: 40%;
+    float: left;
+    padding: 38px 33px;
+    text-align: left; }
+.contact-info h3, .contact-info p {
+    color: #fff; }
 
 .contact-wrapper button.button {
   margin-top: 30px;
@@ -17646,7 +17653,8 @@ div.wpcf7 input[type="submit"] {
   .modal-content-wrap.tab label {
     font-size: inherit !important; }
   .contact-form-wrap, .contact-info {
-    width: 100%; }
+    width: 100%; }.contact-info1 {
+                      width: 100%; }
   span.input.input--nao {
     margin-top: 20px; }
   section.contact {

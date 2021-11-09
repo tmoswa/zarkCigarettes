@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Route;
 use App\Review;
 /*
@@ -14,7 +15,8 @@ use App\Review;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $products=DB::table('products')->orderBy('id','ASC')->get();
+    return view('welcome',compact('products'));
 });
 
 Auth::routes();
